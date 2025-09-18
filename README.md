@@ -47,7 +47,6 @@ I'm a passionate developer with a love for building things that matter. Just lik
 ## 📫 How to Reach Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 ## 💭 Quote
 
