@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate developer with a love for building things that matter. Just like connecting LEGO bricks to create something amazing, I enjoy connecting code, ideas, and people to build innovative solutions.
+I'm a passionate developer with a love for building things that matter. Just like connecting LEGO bricks to create something amazing, I enjoy connecting code, ideas, and people to build innovative [...]
 
 ## 🛠️ Technologies & Tools
 
@@ -46,7 +46,7 @@ I'm a passionate developer with a love for building things that matter. Just lik
 
 ## 📫 How to Reach Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:legolightning71@gmail.com)
 
 ## 💭 Quote
 
@@ -55,4 +55,3 @@ I'm a passionate developer with a love for building things that matter. Just lik
 ---
 
 ⭐️ From [LegoLightning](https://github.com/LegoLightning)
-=======
