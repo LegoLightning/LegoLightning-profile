@@ -57,6 +57,3 @@ I'm a passionate developer with a love for building things that matter. Just lik
 
 ⭐️ From [LegoLightning](https://github.com/LegoLightning)
 =======
-# LegoLightning-profile
-"Personal profile & portfolio hub — Peyton (LegoLightning)"
->>>>>>> main
