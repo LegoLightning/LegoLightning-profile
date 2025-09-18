@@ -1,2 +1,2 @@
 # LegoLightning-profile
-Just about me
+"Personal profile & portfolio hub — Peyton (LegoLightning)"
