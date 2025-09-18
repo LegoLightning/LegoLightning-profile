@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate developer with a love for building things that matter. Just like connecting LEGO bricks to create something amazing, I enjoy connecting code, ideas, and people to build innovative [...]
+I'm a passionate developer with a love for building anything. I enjoy connecting code, ideas, and people to build innovative [...]
 
 ## 🛠️ Technologies & Tools
 
@@ -18,20 +18,10 @@ I'm a passionate developer with a love for building things that matter. Just lik
 
 ## 🚀 What I'm Currently Working On
 
-- 🔭 Building exciting projects that solve real-world problems
+- 🔭 Building exciting projects that brings me and others joy
 - 🌱 Learning new technologies and expanding my skill set
-- 👯 Looking to collaborate on open source projects
+- 👩‍🚀 Looking to expand on knowledge on anything
 - 📫 Always open to interesting conversations and opportunities
-
-## 📊 GitHub Stats
-
-![LegoLightning's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegoLightning&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LegoLightning&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=LegoLightning&theme=radical&row=1&column=6)
 
 ## 📈 Contribution Graph
 
@@ -39,9 +29,9 @@ I'm a passionate developer with a love for building things that matter. Just lik
 
 ## 🎯 Fun Facts
 
-- ⚡ Fun fact: I love LEGO as much as I love coding - both involve creating something amazing from small building blocks!
-- 🎮 When I'm not coding, you can find me gaming, reading, or exploring new technologies
-- 🌟 I believe in the power of community and open source software
+- ⚡ Fun fact: I created my username when I was 8 because I loved Cars like Lightning McQueen and LEGOS
+- 🎮 When I'm not coding, you can find me playing Silksong or using AI 😝
+- 🌟 I believe I that you can learn anything through hard work and dedication
 - 📚 Always learning something new - currently diving deeper into [your current learning focus]
 
 ## 📫 How to Reach Me
